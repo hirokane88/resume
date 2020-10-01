@@ -1,0 +1,60 @@
+.name{
+  padding-left: 10px;
+}
+
+.project{
+  font-weight: bold;
+}
+
+.project-accomplishments{
+  padding-left: 50px;
+}
+
+.education{
+  padding-left: 30px;
+  margin-bottom: 7px;
+  font-size: 18px;
+}
+
+.education-description{
+  padding-left: 50px;
+  font-size: 15px;
+  margin-bottom: 22px;
+}
+
+.footer-container{
+  padding: 15px 0px 10px;
+  text-align: center;
+}
+
+.footer-link{
+  padding: 0px 5px;
+}
+
+.lol{
+  color: #808080;
+}
+
+body{
+  margin-left: 10px;
+}
+
+h1{
+  margin-bottom: 15px;
+}
+
+body table tr td img{
+  border-radius: 10px;
+}
+
+body{
+  text-align: left;
+}
+
+th{
+  padding-left: 15px;
+}
+
+td{
+  padding-left: 15px;
+}
