@@ -45,6 +45,8 @@ h1{
 
 body table tr td img{
   border-radius: 10px;
+  border: 1px solid grey;
+
 }
 
 body{
