@@ -1,3 +1,8 @@
+
+.profile-pic{
+  padding-right: 10px;
+}
+
 .name{
   padding-left: 10px;
 }
@@ -7,12 +12,18 @@
 }
 
 .project-accomplishments{
-  padding-left: 50px;
+  padding-left: 20px;
+  margin: 7px 0px 18px;
+}
+
+.bold{
+  font-weight: 900;
+  font-size: 14px;
 }
 
 .education{
   padding-left: 30px;
-  margin-bottom: 7px;
+  margin-bottom: 5px;
   font-size: 18px;
 }
 
@@ -44,7 +55,7 @@ h1{
 }
 
 body table tr td img{
-  border-radius: 10px;
+  border-radius: 100px;
   border: 1px solid grey;
 
 }
